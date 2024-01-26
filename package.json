@@ -1,0 +1,20 @@
+{
+  "name": "diy-kata",
+  "version": "3.0.0",
+  "description": "Exercises covering basic testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --bail"
+  },
+  "keywords": [],
+  "author": "Manchester Codes",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "jest": "^26.6.3",
+    "prettier": "^2.2.1"
+  }
+}
